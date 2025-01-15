@@ -48,9 +48,9 @@ const RoboticsChampionship = () => {
             Experience the ultimate battle of innovation and technology in the
             National Robotics Championship.
           </p>
-          <button className="px-8 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-semibold transition transform hover:scale-105">
+          {/* <button className="px-8 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-semibold transition transform hover:scale-105">
             Register Now
-          </button>
+          </button> */}
         </div>
       </section>
 

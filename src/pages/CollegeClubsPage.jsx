@@ -28,14 +28,7 @@ const clubs = [
     image:
       "https://www.rkgirlscollege.edu.in/images/farewell-2022-3.jpg",
   },
-  {
-    id: "research",
-    title: "Research and Innovation Club",
-    description:
-      "Engage in cutting-edge research and work on innovative projects. Collaborate with like-minded peers.",
-    image:
-      "https://www.snspt.org/wp-content/uploads/2024/12/pro.jpg",
-  },
+
 ];
 
 const responsive = {

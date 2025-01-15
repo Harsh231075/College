@@ -48,9 +48,9 @@ const CodingCompetition = () => {
             Compete with the best coders across the country. Showcase your skills in
             algorithms, data structures, and problem-solving.
           </p>
-          <button className="px-8 py-3 bg-yellow-500 hover:bg-yellow-600 rounded-full font-semibold text-gray-900 transition">
-            Register Now
-          </button>
+          {/* <button className="px-8 py-3 bg-yellow-500 hover:bg-yellow-600 rounded-full font-semibold text-gray-900 transition">
+              Register Now
+            </button> */}
         </div>
       </section>
 
