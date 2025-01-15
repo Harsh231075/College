@@ -27,11 +27,11 @@ function Footer() {
                   Programs
                 </Link>
               </li>
-              <li>
+{/*               <li>
                 <Link to="/events" className="hover:text-blue-400">
                   Events
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link to="/contact" className="hover:text-blue-400">
                   Contact Us
